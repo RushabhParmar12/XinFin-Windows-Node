@@ -1,0 +1,20 @@
+who owns the first master node
+xdcbb393bEeADA834a1Dda617eA6551F3183921Ea5e
+Which accounts are allowed to seal (signers)? 
+xdc4Ef73209C169572c4e9132A94DdAd98D008B7F50=0
+xdcF22264C60F63F75dCaDb47B8A64a31B77Ab8D562=0
+xdc6B8C67a4d835E9Fd70725fdfB08F549B84F482eA=0
+What is foundation wallet address?
+xdc0000000000000000000000000000000000000068=16 million
+Which accounts are allowed to confirm in Foudation MultiSignWallet?
+xdcCd1675265b444563b7be421b4874bEbaa7fA449F=0
+Which accounts are allowed to confirm in Team MultiSignWallet?
+xdcF74B64cf5d95ae2199aAAC92FC6cF4D3b62250ce=0
+What is swap wallet address for fund 55000000m XDC?
+xdcF061ED2742D2abe22e98C7B2878817A09e099079= 3.75 billlion
+Which accounts should be pre-funded? (advisable at least one)
+xdc07Ad9aE7D2BF0faaDbe5500Ab97E5C572147390B= balance
+
+3.75 billlion swap wallet
+foundaton wallet addresss = 16 million
+Team balance =12 million 

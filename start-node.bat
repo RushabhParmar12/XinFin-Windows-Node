@@ -1,0 +1,3 @@
+XDC --datadir chaindata1 init genesis.json
+XDC --bootnodes "enode://ec569f5d52cefee5c5405a0c5db720dc7061f3085e0682dd8321413430ddda6a177b85db75b0daf83d2e68760ba3f5beb4ba9e333e7d52072fba4d39b05a0451@127.0.0.1:30301" --syncmode "full" --datadir chaindata1 --networkid 1212 -port 30303 --rpc --rpccorsdomain "*" --rpcaddr 0.0.0.0 --rpcport 8545 --rpcvhosts "*" --gasprice "1" --targetgaslimit "420000000" --verbosity 3 --rpcapi admin,db,eth,debug,miner,net,shh,txpool,personal,web3,XDPoS --ethstats "Main-Net-MasterNode-01:xinfin_apothem_network_stats@stats.apothem.network:4000"  --unlock "xdc4Ef73209C169572c4e9132A94DdAd98D008B7F50" --password password.txt --ipcpath geth-data1.ipc --mine
+ pause
